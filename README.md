@@ -1,1 +1,1 @@
-# -ODOO-Claim_management
+# -ODOO-Claims
